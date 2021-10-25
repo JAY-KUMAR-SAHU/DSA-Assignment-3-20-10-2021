@@ -423,6 +423,7 @@ int main()
             SetArrayToZero(a,n);
             break;
         case 24:
+            DeleteAllItemOfArray(int a, n);
             n=0;
             printf("Elements Of array has been deleted");
             break;
